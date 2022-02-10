@@ -95,6 +95,7 @@
   --curve20: 1.25rem;
   --Open-Sans: Open Sans;
   --Nunito-Sans: Nunito Sans;
+  
 }
 .bg-color1{background-color:var(--color1);}
 .bg-color2{background-color:var(--color2);}
@@ -150,11 +151,19 @@
 strong {font-weight: 600;}
 
 /*===== General Styling =====*/
+@font-face {
+  font-family: Google Sans;
+  src: url(/assets/fonts/gfont/GoogleSans-Regular-v1.27.ttf);
+}
+* {
+  font-family: Google Sans;
+}
+
 body,
 html {overflow-x: hidden;}
 body {
   margin: 0;
-  font-family: var(--Nunito-Sans);
+  
   position: relative;
   width: 100%;
   max-width: 100%;
@@ -170,7 +179,6 @@ h4,
 h5,
 h6 {
   color: var(--color1);
-  font-family: var(--Open-Sans);
   font-weight: 700;
 }
 p {
@@ -1871,7 +1879,7 @@ body.slidein .responsive-menu {
 .responsive-menu > ul {padding: 10px 1.25rem 0;}
 .responsive-menu ul li {position: relative;}
 .responsive-menu > ul > li {
-  font-family: var(--Open-Sans);
+  
   font-weight: 700;
   width: 100%;
 }
@@ -2035,7 +2043,7 @@ body.slidein .responsive-menu {
   font-size: 14px;
   font-weight: 700;
   line-height: 1;
-  font-family: var(--Open-Sans);
+  
 }
 .sec-title > span + h2 {margin-top: 10px;}
 .sec-title > h2 {font-size: 2.5rem;}
@@ -2260,7 +2268,7 @@ body.slidein .responsive-menu {
 .wheel-icon-cap-inner > span {
   font-size: 14px;
   font-weight: 700;
-  font-family: var(--Open-Sans);
+  
 }
 .wheel-icon-cap-inner > span + h4 {margin-top: 7px;}
 .wheel-icon-cap-inner > h4 {font-size: 1.5rem;}
@@ -2284,7 +2292,7 @@ ul.fact-list > li:not(:first-child) {border-left: 1px solid #d6d6db;}
 .fact-box > h5 {
   font-size: 1.0625rem;
   font-weight: 400;
-  font-family: var(--Nunito-Sans);
+    
 }
 .fact-box > h2 {font-size: 3.4375rem;}
 .fact-box.text-white > * {color: #fff;}
@@ -3174,7 +3182,7 @@ ul.liststyle3.schm-17 li:before {background-color: var(--color17);}
 }
 .fact-box3 > h4 {
   font-size: 1.25rem;
-  font-family: var(--Nunito-Sans);
+    
 }
 
 /*===== Core Features Style =====*/
@@ -3360,7 +3368,7 @@ ol.breadcrumb > li.breadcrumb-item a:focus {color: var(--color3);}
 .roadmap-item-info > strong {
   font-size: 6.25rem;
   line-height: 6.25rem;
-  font-family: var(--Open-Sans);
+  
 }
 .roadmap-item-info > strong + .roadmap-item-info-inner {padding-left: .9375rem;}
 .roadmap-item-info-inner > h3 {font-size: 1.875rem;}
@@ -3622,7 +3630,7 @@ ol.breadcrumb > li.breadcrumb-item a:focus {color: var(--color3);}
 .tabs-wrap .nav {margin-bottom: -1px;}
 .tabs-wrap .nav li {
   color: var(--color1);
-  font-family: var(--Open-Sans);
+  
 }
 .tabs-wrap .nav li .nav-link {
   padding: 10px 1.25rem;
@@ -3658,7 +3666,7 @@ ol.breadcrumb > li.breadcrumb-item a:focus {color: var(--color3);}
   display: block;
   font-weight: 700;
   line-height: initial;
-  font-family: var(--Open-Sans);
+  
 }
 .bar-box > span + .progress {margin-top: 10px;}
 .bar-box .progress {
@@ -3713,7 +3721,7 @@ ul.gal-caro.slick-slider > button.slick-arrow {margin-top: -2rem;}
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  font-family: var(--Open-Sans);
+  
   font-size: 2.25rem;
   font-weight: 700;
 }
@@ -3882,7 +3890,7 @@ form.searchform > button:focus {color: var(--color3);}
   line-height: initial;
   font-size: 1rem;
   font-weight: 600;
-  font-family: var(--Open-Sans);
+  
 }
 .myCalendar .month-head button {display: none;}
 .myCalendar .month-head {margin-bottom: .9375rem;}
@@ -4502,7 +4510,7 @@ form.searchform > button:focus {color: var(--color3);}
 }
 .prod-table tr td.product-name {
   font-weight: 700;
-  font-family: var(--Open-Sans);
+  
   font-size: 1.125rem;
 }
 .prod-table tr td.product-name a:hover,
