@@ -13,3 +13,5 @@ We love your input! We want to make contributing to this project as easy and tra
 Contributors:
 [Sanket Borade](https://github.com/Sanket1308)
 [Gauri Suryawanshi](https://github.com/Gauri-Suryawanshi)
+[Tejashree Jagtap](https://github.com/Tejashree198)
+
