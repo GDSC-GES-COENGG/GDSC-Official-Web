@@ -2,9 +2,10 @@
 ![GitHub issues](https://img.shields.io/github/issues/GDSC-GES-COENGG/GDSC-Official-Web?color=%23%2300ff00)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/GDSC-GES-COENGG/GDSC-Official-Web?color=%2300f00)
 
-
-![Logo](https://avatars.githubusercontent.com/u/87970256?s=200&v=4)
-
+<html>
+<img src = "https://github.com/GDSC-GES-COENGG/GDSC-Official-Web/blob/main/gdsc_logo_alpha.png" width=200 height=200)
+</html>
+     
 [GDSC-GES-COENGG](https://gdscgescoengg.live/)
 
 # GDSC-GES-COENGG
