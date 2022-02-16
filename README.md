@@ -83,7 +83,7 @@ See `CONTRIBUTING.md` for ways to get started.
 
 
 ## Contributors :
-### The Wonderful People Who Have Contributed Here :
+### People Who Have Contributed Here :
 <table>
   <tr>
 	  <td>
@@ -93,6 +93,7 @@ See `CONTRIBUTING.md` for ways to get started.
 		</td>
 	</tr>
 </table>
+
 
 
 
