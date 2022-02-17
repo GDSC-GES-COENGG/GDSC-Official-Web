@@ -17,7 +17,6 @@ Contributors:
 <br>[Tejashree Jagtap](https://github.com/Tejashree198)
 <br>[Ketan Inamdar](https://github.com/inamdarketan)
 <br>[Parth Parmar](https://github.com/parth2312)
-<br>[Tanmay Bharambe](https://github.com/bharambetr2002)
 <br>[Pratik Parvat](https://github.com/Pratikparvat)
 <br>[Nikita Zalte](https://github.com/Nikita6118)
 <br>[Riddhi Dalal](https://github.com/daisy2748)
