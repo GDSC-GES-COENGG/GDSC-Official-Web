@@ -11,7 +11,18 @@ We love your input! We want to make contributing to this project as easy and tra
 # Add your details here:
 
 Contributors:
-[Sanket Borade](https://github.com/Sanket1308)
-[Gauri Suryawanshi](https://github.com/Gauri-Suryawanshi)
-[Tejashree Jagtap](https://github.com/Tejashree198)
-[Ketan Inamdar](https://github.com/inamdarketan)
+<br>[Atharva Chandwadkar](https://github.com/atharva21-stack)
+<br>[Sanket Borade](https://github.com/Sanket1308)
+<br>[Gauri Suryawanshi](https://github.com/Gauri-Suryawanshi)
+<br>[Tejashree Jagtap](https://github.com/Tejashree198)
+<br>[Ketan Inamdar](https://github.com/inamdarketan)
+<br>[Parth Parmar](https://github.com/parth2312)
+<br>[Tanmay Bharambe](https://github.com/bharambetr2002)
+<br>[Pratik Parvat](https://github.com/Pratikparvat)
+<br>[Nikita Zalte](https://github.com/Nikita6118)
+<br>[Riddhi Dalal](https://github.com/daisy2748)
+<br>[Poornima Mahajan](https://github.com/Poornima164)
+<br>[Mandar Pandit](https://github.com/Leo212003)
+
+
+
