@@ -72,18 +72,3 @@ Please follow these simple steps to start contributing:
 14. Click on Create Pull Request.
 
 15. Done. : )
-
-
-
-## Add Your Name
-
-Contributions are always welcome!
-
-See `CONTRIBUTING.md` for ways to get started.
-
-
-
-
-
-
-
