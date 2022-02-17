@@ -82,17 +82,6 @@ Contributions are always welcome!
 See `CONTRIBUTING.md` for ways to get started.
 
 
-## Contributors :
-### People Who Have Contributed Here :
-<table>
-  <tr>
-	  <td>
-			<a href="https://github.com/GDSC-GES-COENGG/GDSC-Official-Web/graphs/contributors">
-          <img src="https://contrib.rocks/image?repo=GDSC-GES-COENGG/GDSC-Official-Web" />
-      </a>
-		</td>
-	</tr>
-</table>
 
 
 
