@@ -13,7 +13,8 @@
 Through GDSC, we want to foster the ability to give back to society with the use of technology through GDSC. It's a club where we learn and build new things with other curious developers, exhilarating everyone to their core. The goal is to establish an optimum learning environment on and around campus.
 
 # How to Contribute :
-Please follow the steps mentioned in CONTRIBUTING.md
+Please follow the steps mentioned in 
+[CONTRIBUTING.md](https://github.com/GDSC-GES-COENGG/GDSC-Official-Web/blob/main/CONTRIBUTING.md)
 
 
 
