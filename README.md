@@ -17,11 +17,11 @@ Through GDSC, we want to foster the ability to give back to society with the use
 <br/><br/>
 
 # How to Contribute :
-We :heart: your input! You can contribute to any of our repositories, check them [here](https://github.com/GDSC-GES-COENGG)
+We :heart: your input ! You can contribute to any of our repositories, check them [here](https://github.com/GDSC-GES-COENGG).
 
 Please follow the steps mentioned in [CONTRIBUTING.md](https://github.com/GDSC-GES-COENGG/GDSC-Official-Web/blob/main/CONTRIBUTING.md)
 
-Visit [GDSC-GES-COENGG](https://gdscgescoengg.live/) to learn more about us!
+Visit [GDSC-GES-COENGG](https://gdscgescoengg.live/) to learn more about us !
 <br/><br/>
 
 
