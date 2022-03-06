@@ -6,7 +6,7 @@
 
 <html>
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/GDSC-GES-COENGG/GDSC-Official-Web/blob/main/gdsc_logo_alpha.png">
+    <img width="100%" src="https://github.com/GDSC-GES-COENGG/GDSC-Official-Web/blob/main/Green%20Modern.gif">
 </p>
 </html>
      
