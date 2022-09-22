@@ -73,6 +73,7 @@ Please follow these simple steps to start contributing:
 Contributors:
 <br>[Atharva Chandwadkar](https://github.com/atharva21-stack)
 <br>[Sanket Borade](https://github.com/Sanket1308)
+<br>[Tanmay Bharambe](https://github.com/bharambetr2002)
 <br>[Gauri Suryawanshi](https://github.com/Gauri-Suryawanshi)
 <br>[Tejashree Jagtap](https://github.com/Tejashree198)
 <br>[Ketan Inamdar](https://github.com/inamdarketan)
