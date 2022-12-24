@@ -1528,8 +1528,8 @@ nav > ul > li > a:focus:after {
   opacity: 1;
 }
 .menubar-inner .logo {
-  flex: 0 0 11.5625rem;
-  max-width: 11.5625rem;
+  flex: 0 0 11.2625rem;
+  max-width: 11.2625rem;
 }
 .menubar-inner nav {
   flex: 1 0 0;
