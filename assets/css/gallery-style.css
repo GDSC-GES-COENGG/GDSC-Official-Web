@@ -31,16 +31,9 @@ html {
   font-family: "Montserrat", sans-serif;
   font-size: 12px;
   margin: 0;
-  background: rgb(54, 114, 214);
-  background: linear-gradient(
-    45deg,
-    rgba(54, 114, 214, 1) 0%,
-    rgba(9, 18, 33, 1) 25%,
-    rgba(245, 245, 245, 1) 25%,
-    rgba(255, 255, 255, 1) 75%,
-    rgba(9, 18, 33, 1) 75%,
-    rgba(255, 56, 56, 1) 100%
-  );
+  background-image: url("../images/gallery/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   height: 100%;
   width: 100%;
@@ -105,7 +98,7 @@ body.show-off-screen-content .navigation .nav-btn {
   left: -80px;
 }
 body.show-off-screen-content .navigation .nav-btn i {
-  background-color: black;
+  background-color: white;
 }
 body.show-off-screen-content .navigation .nav-btn i:first-child {
   -moz-transform: rotate(45deg) translateY(7px) translateX(7px);
