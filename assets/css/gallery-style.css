@@ -591,21 +591,9 @@ img {
 .slide .description h2 {
   margin-bottom: 40px;
 }
-.slide .description dl {
-  font-size: 12px;
-}
-.slide .description dl dt {
-  margin-bottom: -2px;
-  float: left;
-  margin-right: 10px;
-}
-.slide .description dl dd {
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=60);
-  opacity: 0.6;
-  margin-bottom: 2px;
-}
-.slide .description .additional-info dl dd {
-  margin-bottom: 2px;
+.slide .description h5,
+.slide .description div {
+  width: 25%;
 }
 .slide .description hr {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
@@ -981,7 +969,7 @@ img {
   font-weight: bold;
   position: relative;
   overflow: hidden;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(0, 0, 0, 0.7);
 }
 .slider-controls a:hover {
   border: 2px solid rgba(255, 255, 255, 0);
@@ -1009,8 +997,8 @@ img {
   -webkit-border-radius: 100%;
   border-radius: 100%;
   display: block;
-  background-color: transparent;
-  border: 2px solid rgba(255, 255, 255, 0.3);
+  background-color: rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.3);
   width: 30px;
   height: 30px;
   text-align: center;
@@ -1022,7 +1010,7 @@ img {
 }
 .slider-pager li a:hover,
 .slider-pager .item a:hover {
-  border: 2px solid rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.7);
 }
 .slider-pager li a:hover span,
 .slider-pager .item a:hover span {
