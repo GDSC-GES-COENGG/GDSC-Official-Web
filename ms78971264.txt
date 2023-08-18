@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "gdsc-gescoengg.live",
+  "Id": "eba99e39-8260-4d30-b2d4-a07e80f8f5b7"
+}
