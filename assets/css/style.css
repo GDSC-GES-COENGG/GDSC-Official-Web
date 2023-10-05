@@ -3685,7 +3685,7 @@ ol.breadcrumb > li.breadcrumb-item a:focus {color: var(--color3);}
 /*=== Buttons Style ===*/
 .thm-btn.lrg-btn {
   font-size: 1.125rem;
-  padding: 10.5px 3rem;
+  padding: 10.5px 2.2rem;
 }
 .thm-btn + .thm-btn,
 br + .thm-btn {margin-top: 1rem;}
