@@ -2007,6 +2007,22 @@ body.slidein .responsive-menu {
 .thm-btn.v3.invr:hover,
 .thm-btn.v3.invr:focus {color: #fff;}
 
+/*=== Ver 4 ===*/
+.thm-btn.v4 {border-color: var(--color9) !important;}
+.thm-btn.v4:before {background-color: var(--color9);}
+.thm-btn.v4:hover,
+.thm-btn.v4:focus,
+.thm-btn.v4.brd-btn {color: var(--color9);}
+
+/*== Inverse ==*/
+.thm-btn.v4.invr {
+  border-color: #fff !important;
+  color: var(--color9);
+}
+.thm-btn.v4.invr:before {background-color: #fff;}
+.thm-btn.v4.invr:hover,
+.thm-btn.v4.invr:focus {color: #fff;}
+
 /*===== Services Style 1 =====*/
 .serv-wrap {
   border: 1px solid var(--color7);
